@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![HitCount](http://hits.dwyl.com/samas69420/samas69420.svg)](http://hits.dwyl.com/samas69420/samas69420)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420)](https://github.com/anuraghazra/github-readme-stats)
