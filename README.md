@@ -1,4 +1,4 @@
-### sup bois 👋
+### sup bro 👋
 
 <!--
 **samas69420/samas69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
+join my discord to share ideas for sum kool machine learning projects or also memes :^)
 
 <a href="https://discord.gg/xpfbp3dh">
-  <img align="center" alt="clicca per entrare nel mio discord" width="25px" src="/robe/discord.png" />
+  <img align="center" alt="join my discord" width="60px" src="/robe/discord.png" />
 </a>
 
 <br/>
 
-**Languages and Tools:**  
+**Languages and tools i like:**  
 
-<code><img height="20" src="/robe/python.png"></code>
-<code><img height="20" src="/robe/cpp.png"></code>
-<code><img height="20" src="/robe/java.png"></code>
-<code><img height="20" src="/robe/git.png"></code>
+<code><img height="30" src="/robe/python.png"></code>
+<code><img height="30" src="/robe/cpp.png"></code>
+<code><img height="30" src="/robe/java.png"></code>
+<code><img height="30" src="/robe/git.png"></code>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
@@ -37,6 +40,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samas69420&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br/>
+<br/>
+<br/>
 [![HitCount](http://hits.dwyl.com/samas69420/samas69420.svg)](http://hits.dwyl.com/samas69420/samas69420)
