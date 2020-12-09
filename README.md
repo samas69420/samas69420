@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[![HitCount](http://hits.dwyl.com/samas69420/samas69420.svg)](http://hits.dwyl.com/samas69420/samas69420)
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
+
+
+[![HitCount](http://hits.dwyl.com/samas69420/samas69420.svg)](http://hits.dwyl.com/samas69420/samas69420)
