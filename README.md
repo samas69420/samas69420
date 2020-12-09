@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="/robe/git.png"></code>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
 <!-- per il coso gradient
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
