@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="python.png"></code>
+<code><img height="20" src="/robe/python.png"></code>
 <code><img height="20" src="cpp.png"></code>
 <code><img height="20" src="java.png"></code>
 <code><img height="20" src="git.png"></code>
