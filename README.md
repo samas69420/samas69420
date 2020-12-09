@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://discord.gg/xpfbp3dh">
-  <img align="center" alt="clicca per entrare nel mio discord" width="25px" src="discord.png" />
+  <img align="center" alt="clicca per entrare nel mio discord" width="25px" src="/robe/discord.png" />
 </a>
 
 <br/>
