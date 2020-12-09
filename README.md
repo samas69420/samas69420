@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://discord.gg/xpfbp3dh">
+  <img align="center" alt="clicca per entrare nel mio discord" width="25px" src="discord.png" />
+</a>
+
+<br/>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="/robe/python.png"></code>
