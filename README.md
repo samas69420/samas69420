@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <code><img height="20" src="/robe/python.png"></code>
-<code><img height="20" src="cpp.png"></code>
-<code><img height="20" src="java.png"></code>
-<code><img height="20" src="git.png"></code>
+<code><img height="20" src="/robe/cpp.png"></code>
+<code><img height="20" src="/robe/java.png"></code>
+<code><img height="20" src="/robe/git.png"></code>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
