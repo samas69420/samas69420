@@ -40,7 +40,4 @@ join my discord to share ideas for sum kool machine learning projects or spam cu
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samas69420&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-<br/>
-[![HitCount](http://hits.dwyl.com/samas69420/samas69420.svg)](http://hits.dwyl.com/samas69420/samas69420)
+
