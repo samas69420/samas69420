@@ -39,5 +39,7 @@ join my discord to share ideas for sum kool machine learning projects or spam cu
 -->
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samas69420&langs_count=4&theme=tokyonight&layout=compact)
+<!-- quello che stava prima che forse è un po' buggato
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samas69420&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
