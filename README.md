@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 join my discord to share ideas for sum kool machine learning projects or spam custom emojis (i have spinnin obama) :^)
 
-<a href="https://discord.gg/xpfbp3dh">
+<a href="https://discord.gg/yrEp4vpU">
   <img align="center" alt="join my discord" width="60px" src="/robe/discord.png" />
 </a>
 
