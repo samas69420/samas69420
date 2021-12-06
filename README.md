@@ -31,6 +31,7 @@ join my discord to share ideas for sum kool machine learning projects or spam cu
 <code><img height="30" src="/robe/cpp.png"></code>
 <code><img height="30" src="/robe/java.png"></code>
 <code><img height="30" src="/robe/git.png"></code>
+<code><img height="30" src="/robe/rust.png"></code>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
