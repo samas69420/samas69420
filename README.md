@@ -1,17 +1,18 @@
-### sup bro 👋
+### 👋
 
 ![cilckz](https://visitor-badge.laobi.icu/badge?page_id=samas69420.samas69420)
 
-join my discord to find various resources, share sum kool ideas for AI projects or spam custom emojis :^)
+join my discord for interesting resources and other cool stuff
 
 <a href="https://discord.gg/q8czmx2">
-  <img align="center" alt="join my discord" width="60px" src="/robe/discord.png" />
+  <img align="center" alt="discord" width="60px" src="/robe/discord.png" />
 </a>
 
 <br/>
 
-**Languages and tools i like:**  
+**Languages & tools:**  
 
+<code><img height="30" src="/robe/arch.png"></code>
 <code><img height="30" src="/robe/python.png"></code>
 <code><img height="30" src="/robe/cpp.png"></code>
 <code><img height="30" src="/robe/java.png"></code>
