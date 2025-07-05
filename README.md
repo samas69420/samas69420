@@ -12,13 +12,13 @@ join my discord for interesting resources and other cool stuff
 
 **Languages & tools:**  
 
-<code><img height="30" src="/robe/arch.png"></code>
-<code><img height="30" src="/robe/python.png"></code>
-<code><img height="30" src="/robe/cpp.png"></code>
-<code><img height="30" src="/robe/java.png"></code>
-<code><img height="30" src="/robe/git.png"></code>
-<code><img height="30" src="/robe/rust.png"></code>
-<code><img height="30" src="/robe/pytorch.png"></code>
+<code><img src="/robe/arch.png"></code>
+<code><img src="/robe/python.png"></code>
+<code><img src="/robe/cpp.png"></code>
+<code><img src="/robe/java.png"></code>
+<code><img src="/robe/git.png"></code>
+<code><img src="/robe/rust.png"></code>
+<code><img src="/robe/pytorch.png"></code>
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
