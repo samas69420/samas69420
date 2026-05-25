@@ -20,8 +20,4 @@ join my discord for interesting resources and other cool stuff
 <code><img src="/robe/rust.png"></code>
 <code><img src="/robe/pytorch.png"></code>
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=samas69420&show_icons=true&count_private=true&theme=tokyonight)
-
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samas69420&langs_count=4&theme=tokyonight&layout=compact)
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samas69420&layout=compact&theme=dark)
